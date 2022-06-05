@@ -2,6 +2,7 @@ body {
     background: #f1f1f1;
 }
 
+
 *{
   margin: 0px;
   padding: 0px;
@@ -22,7 +23,7 @@ nav{
 .logo{
   color:whitesmoke;
   letter-spacing: 2px;
-  font-size:80px;
+  font-size:100px;
 
 }
 
